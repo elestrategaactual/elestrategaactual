@@ -1,5 +1,32 @@
 ### Hi there 👋
 
+# Let me introduce myself, Ivan Hernandez 👋
+I'm a automation and contontrol and mechatronics engineering student. 
+
+<div style = "display: block" >
+<img style="margin-bottom: 20px" src = "https://github-readme-stats.vercel.app/api?username=elestrategaactual&theme=radical" align = "left" width = "47%"/> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elestrategaactual&layout=compact" align = "right" width = "47%"/> 
+</div>
+
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+
+
+
+
+
+
+<h1> Interests </h1> 
+
+
+
+</ul> 
+
 <!--
 **elestrategaactual/elestrategaactual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
