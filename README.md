@@ -23,6 +23,14 @@ I'm a automation and contontrol and mechatronics engineering student.
 
 <h1> Interests </h1> 
 
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+
 <h1> Proyects </h1> 
 
 
